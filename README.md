@@ -1,5 +1,6 @@
 # Trabajo-Final
-Trabajo final de programación 
+Trabajo final de programación
+
 Nombres de los integrantes: 
 - Rene Fernando Mamani 
 - Maximo Britez
